@@ -1,0 +1,1 @@
+export { default as WelcomeTexts } from './welcome';
